@@ -1,0 +1,60 @@
+====================================
+Execution Started
+Time: 2026-09-29T12:03:17.537Z
+Method: GET
+URL: https://jsonplaceholder.typicode.com/posts/1
+Status Code: 200
+Status Text: OK
+Response Body:
+{
+  "userId": 1,
+  "id": 1,
+  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+}
+====================================
+====================================
+Execution Started
+Time: 2026-09-29T12:03:19.802Z
+Method: GET
+URL: https://jsonplaceholder.typicode.com/posts/1
+Status Code: 200
+Status Text: OK
+Response Body:
+{
+  "userId": 1,
+  "id": 1,
+  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+}
+====================================
+====================================
+Execution Started
+Time: 2026-09-29T12:03:22.883Z
+Method: GET
+URL: https://jsonplaceholder.typicode.com/posts/1
+Status Code: 200
+Status Text: OK
+Response Body:
+{
+  "userId": 1,
+  "id": 1,
+  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+}
+====================================
+====================================
+Execution Started
+Time: 2026-09-29T12:03:25.209Z
+Method: GET
+URL: https://jsonplaceholder.typicode.com/posts/1
+Status Code: 200
+Status Text: OK
+Response Body:
+{
+  "userId": 1,
+  "id": 1,
+  "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+}
+====================================

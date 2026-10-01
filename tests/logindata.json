@@ -1,0 +1,17 @@
+[
+    {
+        "username":"Dhivyakarthi123",
+        "password":"12345",
+        "result": "sucess"
+    },
+    {
+         "username":"Dhivyakarthi123",
+        "password":"1333",
+        "result": "fail"
+    },
+    {
+        "username":"Dhivya",
+        "password":"12345",
+        "result": "fail"
+    }
+]
